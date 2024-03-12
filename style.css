@@ -1,0 +1,13 @@
+.topnav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body {
+    background: #F5D8D8; /* Цвет фона */
+    }
+
+    .nav-pills .nav-link.active {
+        color: rgb(0, 0, 0);
+        background: #F5D8D8;
+    }
